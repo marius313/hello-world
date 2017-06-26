@@ -1,4 +1,4 @@
 # hello-world
 Testing
 
-I am learning to use github today.
+I have learnt to use github today.
